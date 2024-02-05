@@ -22,5 +22,6 @@ setup(name='podfox',
         'docopt==0.6.2',
         'feedparser==6.0.8',
         'requests==2.20.0',
+       'tqdm=4.48.2',
         ],
     )
