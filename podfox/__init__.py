@@ -50,7 +50,7 @@ from time import mktime, localtime, strftime
 
 CONFIGURATION_DEFAULTS = {
     "podcast-directory": "~/Podcasts",
-    "maxnum": 5000,
+    "maxnum": 50,
     "maxage-days": 0,
     "mimetypes": [ "audio/aac",
                    "audio/ogg",
